@@ -3,8 +3,8 @@
 phalcon的多模块采集框架。
 
 ###### http访问
-`demo`: http://localhost:9001/user/index/index
-`demo`: http://localhost:9001/user/index/index/?id=1&name=iranw
+demo: http://localhost:9001/user/index/index
+demo: http://localhost:9001/user/index/index/?id=1&name=iranw
 
 ###### cli执行
 ```
